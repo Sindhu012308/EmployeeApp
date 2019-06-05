@@ -39,12 +39,9 @@ target/
 	.mvn/timing.properties
 	.mvn/wrapper/maven-wrapper.jar
 *.properties
-*.xml
-*.jar
-target/*
 *.jar
 maven-wrapper*
 mvnw*
 .DS_Store
 .mvn/
-src/main/resources/*
+
